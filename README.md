@@ -6,5 +6,6 @@
 >[官方网站-Block bbs](https://blockbbs.github.io)
 >## 更新日志
 >*2024/6/7
-   >今天高考就不更新啦！
+   >今天高考就不更新啦！ <br>
+   ![槐序深巷](https://block.freeflarum.com/assets/files/2024-06-07/1717719152-607671-lruri.jpg)
 >
