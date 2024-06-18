@@ -11,5 +11,5 @@
 >
 *2024/6/15
    >新版本更新！全新界面，全新UI，全新动画！ <br>
- ![主页1]([https://block.freeflarum.com/assets/files/2024-06-18/1718714484-670001-image.png])
- ![主页1](https://block.freeflarum.com/assets/files/2024-06-18/1718714596-19074-image-1718416735691.png)
+ ![主页1]([https://block.freeflarum.com/assets/files/2024-06-18/1718714484-670001-image.png]) <br>
+ ![主页2](https://block.freeflarum.com/assets/files/2024-06-18/1718714596-19074-image-1718416735691.png)
